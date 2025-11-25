@@ -1,0 +1,7 @@
+{
+  "name": "NFe Scanner Manager",
+  "description": "Gerenciador de Notas Fiscais com leitura de QR Code/Código de Barras e exportação para Excel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
