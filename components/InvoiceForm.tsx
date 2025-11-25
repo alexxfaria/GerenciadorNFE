@@ -74,7 +74,7 @@ const InvoiceForm: React.FC<InvoiceFormProps> = ({
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="space-y-1">
             <label htmlFor="responsible" className="block text-sm font-medium text-gray-700">
-              Responsável
+              Observação / Responsável
             </label>
             <input
               type="text"
